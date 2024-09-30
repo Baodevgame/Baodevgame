@@ -1,7 +1,7 @@
-🎮 Hello, I'm [Pham Bao]!
+🎮 Hello, I'm Xenos!
 
 👾 About Me
-Tôi là [Your Name], một Game Developer với niềm đam mê mạnh mẽ dành cho việc tạo ra các trò chơi điện tử độc đáo và thú vị. Tôi đã có kinh nghiệm trong việc phát triển nhiều thể loại game từ Indie Games đến AAA titles. Những kỹ năng chính của tôi bao gồm:
+Tôi là Pham Bao, một Game Developer với niềm đam mê mạnh mẽ dành cho việc tạo ra các trò chơi điện tử độc đáo và thú vị. Tôi đã có kinh nghiệm trong việc phát triển nhiều thể loại game từ Indie Games đến AAA titles. Những kỹ năng chính của tôi bao gồm:
 
 🎮 Game Design & Development
 🎯 Gameplay Mechanics sáng tạo và hấp dẫn
@@ -11,11 +11,11 @@ Tôi là [Your Name], một Game Developer với niềm đam mê mạnh mẽ dà
 🌐 Multiplayer Game Systems
 🛠️ Tech Stack
 Game Engines:
-,
-,
+,Unity Engine
+,Cocos2dx
 Programming Languages:
-,
-,
+,C#
+,C++
 Graphics & Animation:
 ,
 ,
@@ -46,8 +46,5 @@ Puzzle Platformer (Mobile)
 
 
 📫 Contact Me
-Email: your-email@example.com
-LinkedIn: LinkedIn Profile
-Twitter: Twitter Handle
-Portfolio: yourportfolio.com
+Email: baodevgame@gmail.com
 🎮 "Coding the future, one game at a time."
