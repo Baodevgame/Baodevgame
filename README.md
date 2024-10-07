@@ -11,11 +11,11 @@ Tôi là Pham Bao, một Game Developer với niềm đam mê mạnh mẽ dành 
 🌐 Multiplayer Game Systems
 🛠️ Tech Stack
 Game Engines:
-,Unity Engine
-,Cocos2dx
+Unity Engine,
+Cocos2dx,
 Programming Languages:
-,C#
-,C++
+C#,
+C++,
 Graphics & Animation:
 ,
 ,
@@ -26,10 +26,6 @@ Version Control:
 Fantasy Adventure: Một game nhập vai thế giới mở với cơ chế chiến đấu độc đáo và cốt truyện phong phú.
 Sci-Fi Shooter: Game bắn súng góc nhìn thứ nhất trong môi trường không gian, tập trung vào trải nghiệm multiplayer.
 Puzzle Platformer: Game giải đố kết hợp cơ chế platforming sáng tạo, thử thách tư duy của người chơi.
-🏆 Game Jams & Awards
-🏅 Ludum Dare: Top 10 Game Design (Ludum Dare #45)
-🏅 Global Game Jam: Best Innovation (GGJ 2022)
-🏅 Unity Showcase: Game of the Month (June 2021)
 📚 What I'm Learning
 Hiện tại, tôi đang học và tìm hiểu thêm về:
 
@@ -43,7 +39,7 @@ Fantasy Adventure (PC)
 Sci-Fi Shooter (PC/Console)
 Puzzle Platformer (Mobile)
 🌟 GitHub Stats
-
+...
 
 📫 Contact Me
 Email: baodevgame@gmail.com
