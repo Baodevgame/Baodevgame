@@ -4,7 +4,7 @@
 
 # 🌊 Xenos
 
-### 🎮 Published Mobile Game Developer
+### 🎮 Mobile Game Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Published+Mobile+Game+Developer;Unity+Game+Developer;Creator+of+Deep+Sea+Creatures;Building+Games+From+Idea+To+Release;Passionate+About+Gameplay+Programming" />
 
