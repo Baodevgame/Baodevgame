@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:001F3F,50:0066CC,100:00D4FF&text=XENOS&fontColor=FFFFFF&fontSize=70&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001F3F,50:0066CC,100:00D4FF&text=XENOS&fontColor=FFFFFF&fontSize=75&animation=fadeIn&fontAlignY=40"/>
 
 # 🌊 Xenos
 
-### 🎮 Unity Mobile Game Developer
+### 🎮 Published Mobile Game Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;Creating+Relaxing+Mobile+Games;Gameplay+Systems+Designer;Building+Deep+Sea+Creatures;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Published+Mobile+Game+Developer;Unity+Game+Developer;Creator+of+Deep+Sea+Creatures;Gameplay+Systems+Designer;Building+Games+From+Idea+To+Release" />
 
 </div>
 
@@ -14,20 +14,22 @@
 
 ## 👋 About Me
 
-🎮 I'm an indie game developer passionate about creating relaxing and engaging mobile game experiences using Unity.
+I'm an indie game developer passionate about creating engaging and relaxing mobile game experiences.
 
-🌊 My current main project is **Deep Sea Creatures**, an ocean-themed collection game focused on progression, exploration, rare discoveries, and satisfying gameplay systems.
+🚀 I have successfully published a game on Google Play and continue improving it through updates, optimization, and new content.
 
-💡 Areas I enjoy working on:
+🌊 My flagship project is **Deep Sea Creatures**, an ocean-themed collection game focused on exploration, progression, rare discoveries, achievements, and long-term player engagement.
+
+I enjoy building complete game systems from concept to release, including:
 
 * Gameplay Programming
-* Mobile Game Development
 * Save Systems
 * Object Pooling
 * UI/UX Design
 * Reward Systems
-* Optimization
+* Mobile Optimization
 * Game Architecture
+* Live Game Updates
 
 ---
 
@@ -35,20 +37,34 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,visualstudio,vscode"/>
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender,git,github,visualstudio,vscode"/>
 
 </div>
 
 <br>
 
-| Category        | Technologies            |
-| --------------- | ----------------------- |
-| Game Engine     | Unity                   |
-| Programming     | C#                      |
-| Graphics        | Blender                 |
-| Rendering       | URP                     |
-| Version Control | Git & GitHub            |
-| IDE             | Visual Studio & VS Code |
+| Category            | Technologies           |
+| ------------------- | ---------------------- |
+| Game Engines        | Unity, Cocos2d-x       |
+| Languages           | C#, C++                |
+| Graphics & Modeling | Blender                |
+| Rendering           | URP                    |
+| Version Control     | Git, GitHub            |
+| IDEs                | Visual Studio, VS Code |
+
+---
+
+## 🎯 Specializations
+
+* Mobile Game Development
+* Gameplay Programming
+* Save Game Systems
+* Object Pooling Architecture
+* UI/UX Design
+* Achievement Systems
+* Daily Reward Systems
+* Mobile Optimization
+* Live Operations & Updates
 
 ---
 
@@ -56,9 +72,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -68,17 +84,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -88,50 +104,73 @@
 
 ### 🌊 Deep Sea Creatures
 
-An ocean-themed collection and progression game featuring:
+Published mobile game available on Google Play.
 
-* Fishing gameplay progression
+#### Key Features
+
+* Fishing progression system
 * Rare sea creature collection
-* Achievement systems
+* Achievement system
 * Daily rewards
+* Persistent save data
+* Optimized object pooling
 * Luxury-inspired underwater visuals
-* Persistent save system
-* Optimized object pooling architecture
+* Long-term progression mechanics
+* Regular content updates
+
+#### Technologies
+
+* Unity
+* C#
+* URP
+* Save System
+* Object Pooling
 
 ---
 
 ### 🐾 MergePlushies
 
-A relaxing merge game focused on:
+Casual merge game project focused on collection and progression mechanics.
+
+#### Features
 
 * Creature evolution
-* Collection mechanics
+* Collection systems
 * Unlock progression
-* Casual gameplay systems
-* Reward-based progression
+* Reward mechanics
+* Casual gameplay loop
 
 ---
 
 ## 📚 Currently Learning
 
-```yaml
-Current Focus:
-  - Mobile Game Optimization
-  - Design Patterns
-  - Advanced Save Systems
-  - Procedural Gameplay
-  - Shader Graph
-  - Visual Effects
-  - Better Game Architecture
-```
+* Advanced Mobile Optimization
+* Design Patterns
+* Procedural Gameplay Systems
+* Shader Graph
+* Visual Effects (VFX)
+* Scalable Game Architecture
+* Better Performance Profiling
 
 ---
 
 ## 🌊 Development Philosophy
 
-> Build games that are simple to understand,
+> Build games that are easy to learn,
+>
 > satisfying to play,
+>
 > and rewarding to master.
+
+---
+
+## 🎯 Goals For 2026
+
+* Release more mobile games
+* Improve game architecture skills
+* Learn advanced optimization techniques
+* Build larger gameplay systems
+* Expand game development portfolio
 
 ---
 
@@ -139,9 +178,7 @@ Current Focus:
 
 📧 Email
 
-```text
-baodevgame@gmail.com
-```
+[baodevgame@gmail.com](mailto:baodevgame@gmail.com)
 
 ---
 
@@ -149,7 +186,7 @@ baodevgame@gmail.com
 
 ### 🎮 Coding The Future, One Game At A Time
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D4FF&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!;See+you+in+the+next+commit!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Published+Mobile+Game+Developer;Always+Learning+Always+Building.;See+You+In+The+Next+Commit!" />
 
 </div>
 
