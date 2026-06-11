@@ -6,7 +6,7 @@
 
 ### 🎮 Published Mobile Game Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Published+Mobile+Game+Developer;Unity+Game+Developer;Creator+of+Deep+Sea+Creatures;Gameplay+Systems+Designer;Building+Games+From+Idea+To+Release" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Published+Mobile+Game+Developer;Unity+Game+Developer;Creator+of+Deep+Sea+Creatures;Building+Games+From+Idea+To+Release;Passionate+About+Gameplay+Programming" />
 
 </div>
 
@@ -14,22 +14,23 @@
 
 ## 👋 About Me
 
-I'm an indie game developer passionate about creating engaging and relaxing mobile game experiences.
+I'm an indie game developer specializing in mobile game development with Unity.
 
-🚀 I have successfully published a game on Google Play and continue improving it through updates, optimization, and new content.
+🚀 I have successfully designed, developed, optimized, and published a mobile game on Google Play.
 
-🌊 My flagship project is **Deep Sea Creatures**, an ocean-themed collection game focused on exploration, progression, rare discoveries, achievements, and long-term player engagement.
+My primary focus is building complete game systems that provide long-term player engagement through progression, achievements, rewards, collection mechanics, and satisfying gameplay loops.
 
-I enjoy building complete game systems from concept to release, including:
+### Areas of Expertise
 
 * Gameplay Programming
+* Mobile Game Development
 * Save Systems
 * Object Pooling
 * UI/UX Design
-* Reward Systems
+* Achievement Systems
+* Daily Reward Systems
 * Mobile Optimization
 * Game Architecture
-* Live Game Updates
 
 ---
 
@@ -43,102 +44,60 @@ I enjoy building complete game systems from concept to release, including:
 
 <br>
 
-| Category            | Technologies           |
-| ------------------- | ---------------------- |
-| Game Engines        | Unity, Cocos2d-x       |
-| Languages           | C#, C++                |
-| Graphics & Modeling | Blender                |
-| Rendering           | URP                    |
-| Version Control     | Git, GitHub            |
-| IDEs                | Visual Studio, VS Code |
+| Category              | Technologies           |
+| --------------------- | ---------------------- |
+| Game Engines          | Unity, Cocos2d-x       |
+| Programming Languages | C#, C++                |
+| Graphics & Modeling   | Blender                |
+| Rendering Pipeline    | URP                    |
+| Version Control       | Git, GitHub            |
+| Development Tools     | Visual Studio, VS Code |
 
 ---
 
-## 🎯 Specializations
+## 🎮 Published Project
 
-* Mobile Game Development
-* Gameplay Programming
-* Save Game Systems
-* Object Pooling Architecture
-* UI/UX Design
-* Achievement Systems
-* Daily Reward Systems
-* Mobile Optimization
-* Live Operations & Updates
+# 🌊 Deep Sea Creatures
 
----
+Ocean-themed collection and progression game available on Google Play.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 🎮 Featured Projects
-
-### 🌊 Deep Sea Creatures
-
-Published mobile game available on Google Play.
-
-#### Key Features
+### Core Features
 
 * Fishing progression system
-* Rare sea creature collection
+* Sea creature collection
 * Achievement system
 * Daily rewards
-* Persistent save data
-* Optimized object pooling
-* Luxury-inspired underwater visuals
+* Persistent save system
 * Long-term progression mechanics
-* Regular content updates
+* Optimized object pooling architecture
+* Mobile-friendly UI/UX
+* Performance optimization
 
-#### Technologies
+### Built With
 
-* Unity
+* Unity Engine
 * C#
 * URP
-* Save System
+* Custom Save System
 * Object Pooling
+
+### Responsibilities
+
+* Game Design
+* Gameplay Programming
+* UI Development
+* Save System Development
+* Performance Optimization
+* Game Balancing
+* Publishing & Release Management
 
 ---
 
-### 🐾 MergePlushies
+## 🐾 Additional Projects
 
-Casual merge game project focused on collection and progression mechanics.
+### MergePlushies
 
-#### Features
-
-* Creature evolution
-* Collection systems
-* Unlock progression
-* Reward mechanics
-* Casual gameplay loop
+Casual merge game focused on collection, progression, and relaxing gameplay mechanics.
 
 ---
 
@@ -150,27 +109,24 @@ Casual merge game project focused on collection and progression mechanics.
 * Shader Graph
 * Visual Effects (VFX)
 * Scalable Game Architecture
-* Better Performance Profiling
+* Advanced Unity Systems
 
 ---
 
 ## 🌊 Development Philosophy
 
-> Build games that are easy to learn,
+> Great games are not built from complex features.
 >
-> satisfying to play,
->
-> and rewarding to master.
+> They are built from polished systems that players enjoy every day.
 
 ---
 
-## 🎯 Goals For 2026
+## 🎯 Goals
 
 * Release more mobile games
-* Improve game architecture skills
-* Learn advanced optimization techniques
-* Build larger gameplay systems
-* Expand game development portfolio
+* Expand my game development portfolio
+* Improve architecture and optimization skills
+* Build larger and more scalable game systems
 
 ---
 
@@ -186,7 +142,7 @@ Casual merge game project focused on collection and progression mechanics.
 
 ### 🎮 Coding The Future, One Game At A Time
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Published+Mobile+Game+Developer;Always+Learning+Always+Building.;See+You+In+The+Next+Commit!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&width=700&lines=Published+Mobile+Game+Developer;Creator+of+Deep+Sea+Creatures;Always+Learning+Always+Building;Thanks+For+Visiting+My+Profile!" />
 
 </div>
 
